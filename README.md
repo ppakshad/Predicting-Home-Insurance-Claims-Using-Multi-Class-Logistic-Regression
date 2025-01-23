@@ -67,10 +67,12 @@ git clone https://github.com/yourusername/home-insurance-claims.git
 cd home-insurance-claims
 jupyter notebook home-claim.ipynb
 ```
-## Key Findings:
+## Findings:
 
 - The model performs moderately well in classifying claim frequencies.
 - Fire alarm type and Distance to fire station were strong predictors.
 - More advanced modeling techniques (e.g., XGBoost, Neural Networks) could improve accuracy.
 
-## Note: This project is open-source and available under the MIT License.
+## Note: 
+
+This project is open-source and available under the MIT License.
